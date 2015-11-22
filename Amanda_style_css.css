@@ -1,0 +1,116 @@
+
+#header h1 {
+    color: black;
+    font-size: 100px;
+    font-family: 'Impact', sans-serif;
+    font-weight: bold;
+
+}
+h2 {
+    color: #fcd823;
+    font-size: 80px;
+    font-family: 'Impact', sans-serif;
+    text-align: right;
+    padding-right: 100px;
+    opacity:0.5;
+}
+table h3 {
+    color: black;
+    font-size: 30px;
+    font-family: 'Impact', sans-serif;
+    padding-left: 50px;
+
+}
+
+a:link {
+    text-decoration: none;
+
+}
+a:visited {
+    text-decoration: none;
+    color: black;
+    padding-left: 50px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+.nav {
+    background-color: black;
+    background-clip: padding-box;
+
+
+}
+
+.nav a {
+    color: white;
+    font-family: 'Shift', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 14px 10px;
+    text-transform: uppercase;
+    text-align: justify;
+
+}
+
+.nav li {
+
+    display: inline;
+}
+
+
+
+
+
+#content h1 {
+    color: black;
+    font-size: 26px;
+    font-family: 'Impact', sans-serif;
+    font-weight: bold;
+    padding-left: 50px;
+}
+
+#content p {
+    color: black;
+    font-size: 16px;
+    font-family: 'PT Serif', sans-serif;
+    padding-left: 50px;
+}
+.picture {
+    background-image:url('http://41.media.tumblr.com/896c205663c0b303805fc5447ecf628e/tumblr_nmk2f5NVea1s6tev3o1_1280.jpg');
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+table {
+    border-collapse:separate;
+    padding:15px;
+    table-layout:fixed;
+
+    width:100%;
+
+}
+
+table tbody tr td {
+
+    text-align: center;
+    padding: 15px;
+
+}
+
+
+
+table h1 {
+    font-size: 30px;
+    font-family: "Impact"
+}
+
+table p {
+
+}
